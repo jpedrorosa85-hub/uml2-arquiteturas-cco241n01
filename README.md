@@ -6,12 +6,12 @@
 ## Equipe
 
 **Nome do time:** xx  
-**Modelo escolhido:** 5
+**Modelo escolhido:** 3
 
 | Nome          | Usuário do GitHub |
 | Maria Eduarda | mdudocs |
 | Joao Pedroza  | jpedrorosa85-hub
-
+ 
 ## Hoje: dia de planejamento
 
 1. Um integrante clica em **Fork** (canto superior direito) e depois em **Create fork**.

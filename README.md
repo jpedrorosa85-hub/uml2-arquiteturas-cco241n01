@@ -5,28 +5,12 @@
 
 ## Equipe
 
-**Nome do time:** ____________________  
-**Modelo escolhido:** ___ (1 a 5)
+**Nome do time:** xx  
+**Modelo escolhido:** 5
 
-| Nome | Usuário do GitHub |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
-## Modelos
-
-| Modelo | Sistema | Arquitetura principal |
-| --- | --- | --- |
-| 1 | Delivery de comida | Microsserviços com API Gateway |
-| 2 | Monitoramento de sensores | Orientada a eventos |
-| 3 | Sistema acadêmico | Camadas (3-tier) |
-| 4 | Marketplace com pagamento | Orientada a serviços (SOA) |
-| 5 | Chat em tempo real | Cliente-servidor |
-
-Cada modelo pode ser escolhido por **uma equipe só**. A descrição completa de cada modelo está no documento do trabalho, enviado pelo professor.
+| Nome          | Usuário do GitHub |
+| Maria Eduarda | mdudocs |
+| Joao Pedroza  | jpedrorosa85-hub
 
 ## Hoje: dia de planejamento
 

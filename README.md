@@ -4,8 +4,7 @@
 **Prazo:** 18/11/2026
 
 ## Equipe
-
-**Nome do time:** xx  
+**Nome do time:** Sistema acadêmico em arquitetura de Camadas (3-tier).
 **Modelo escolhido:** 3
 
 | Nome          | Usuário do GitHub |
